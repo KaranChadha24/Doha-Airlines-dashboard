@@ -61,7 +61,7 @@ The dashboards are designed using a **maroon and gray** palette, inspired by rea
 
 ## 📄 Conclusions
 
-Please refer to [`conclusions.txt`](conclusions.txt) for a summary of key insights drawn from the dashboards, including:
+Please refer to [`conclusions.txt`](Findings.txt) for a summary of key insights drawn from the dashboards, including:
 - Profitability trends
 - Sales-class relationships
 - Fleet performance by model and manufacturer
@@ -79,9 +79,8 @@ Please refer to [`conclusions.txt`](conclusions.txt) for a summary of key insigh
 
 ## 🧠 Author
 
-Created by [Your Name]  
-📫 [your.email@example.com]  
-🔗 [LinkedIn or Portfolio Link]
+Created by Karan Chadha  
+📫 Karan1chadha@gmail.com  
 
 ---
 
